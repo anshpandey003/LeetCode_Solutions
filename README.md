@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
