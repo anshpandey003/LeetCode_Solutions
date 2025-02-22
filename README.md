@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
