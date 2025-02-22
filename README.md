@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
 ## Hash Table
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
