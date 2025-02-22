@@ -55,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
