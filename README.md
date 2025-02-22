@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [3447-clear-digits](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
