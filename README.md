@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
