@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
