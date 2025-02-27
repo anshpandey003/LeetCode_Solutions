@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [1039-find-the-town-judge](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
