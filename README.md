@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/2128-reverse-prefix-of-word) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [1039-find-the-town-judge](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
