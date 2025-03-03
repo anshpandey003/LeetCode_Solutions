@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [1039-find-the-town-judge](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/1916-find-center-of-star-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
