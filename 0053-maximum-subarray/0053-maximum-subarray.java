@@ -6,19 +6,15 @@ class Solution {
         for(int i=0; i<nums.length;i++)
         {
            currSum += nums[i];
-           if(currSum < 0)
-           {
-            if(currSum>MaxSum)
-           {
-            MaxSum = currSum;
-           }
-            currSum=0;
-            continue;
-           }   
            if(currSum>MaxSum)
            {
             MaxSum = currSum;
            }
+           if(currSum < 0)
+           {
+            currSum=0;
+           }   
+           
                    
         }
         return MaxSum;
