@@ -14,7 +14,6 @@ class Solution {
             }
         }else{
             if(digits[digits.length-1]==9){
-                // digits[digits.length-1] = 0;
                 int x=digits.length-1;
                 while(digits[x]==9){
                     digits[x]=0;
