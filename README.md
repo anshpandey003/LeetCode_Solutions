@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshpandey003/LeetCode_Solutions/tree/master/0283-move-zeroes) |
